@@ -81,10 +81,9 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <br>
    2.Dashboard 
    <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20204927.png"><br><br>
-   <img src="https://user-images.githubusercontent.com/54537819/96366049-ba992d00-1162-11eb-84e8-b90fb507f20d.png">
    <br><br>
    3.Change Password Page
-   <img src="https://user-images.githubusercontent.com/54537819/96366158-75c1c600-1163-11eb-909b-2021d5cd2b06.png">
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20205103.png">
    <br><br>
    4.Add Donor Page
    <img src="https://user-images.githubusercontent.com/54537819/96366077-e3212700-1162-11eb-9f81-7d0dca60e913.png">
