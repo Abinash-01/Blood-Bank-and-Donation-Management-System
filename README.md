@@ -104,6 +104,6 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <br>
    <br>
    9.Update Contact Info Page
-   <img src="https://user-images.githubusercontent.com/54537819/96366208-b15c9000-1163-11eb-8163-e2d9f9bc4af5.png">
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20205440.png?raw=true">
    
    
