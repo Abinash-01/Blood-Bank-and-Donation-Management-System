@@ -76,34 +76,43 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <h3> Admin Panel Images </h3>
    <br>
    <br>1. Admin Panel Login Portal
-   <img src="https://user-images.githubusercontent.com/54537819/96365985-43fc2f80-1162-11eb-801c-056f973e61b4.png">
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20115850.png?raw=true">
    <br>
    <br>
    2.Dashboard 
-   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20204927.png"><br><br>
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20115858.png?raw=true"><br><br>
    <br><br>
    3.Change Password Page
-   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20205103.png">
+   <img src="">
    <br><br>
    4.Add Donor Page
-   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20205252.png">
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20115909.png?raw=true">
    <br>
    <br>
    5.Donor List Page
-   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20210546.png">
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20115920.png?raw=true">
    <br><br>
    6.Check Contact Us Query Page
-   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20205418.png?raw=true">
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20120024.png?raw=true">
    <br><br>
    7.Manage Page Data
-   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20205429.png?raw=true">
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20120033.png?raw=true">
    <br>
    <br>
    8.Update Page Details
-   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20215412.png">
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20120838.png?raw=true">
    <br>
    <br>
    9.Update Contact Info Page
-   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-15%20205440.png?raw=true">
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20120040.png?raw=true">
+   <br>
+   <br>
+   10.Update Bloodbank Page
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20120047.png?raw=true">
+   <br>
+   <br>
+   11.Blood Bank List Page
+   <img src="https://github.com/Abinash-01/Blood-Bank-and-Donation-Management-System/blob/main/image/Screenshot%202025-03-17%20120056.png?raw=true">
+   <br><br>
    
    
